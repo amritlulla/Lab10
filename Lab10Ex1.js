@@ -1,0 +1,5 @@
+
+function stopTime(){
+ alert("output");
+
+}
